@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="navBar.master.cs" Inherits="refonteFormulaire.navBar" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="GraphTable.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+   <div >
+       <nav class="navbar navbar-inverse navbar-fixed-top " style="margin-bottom:50px;">
+            <div class="container-fluid" >
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">CCPG</a>
+                </div>
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="Accueil.aspx">Accueil</a></li>
+                    <li><a href="Adherant.aspx">Adhérant</a></li>
+                    <li><a href="Club.aspx">Club</a></li>
+                    <li><a href="Categorie.aspx">Categorie</a></li>
+                </ul>
+            </div>
+        </nav>
+       
+   </div>
+        <br />
+    <br />
+    <br />
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+</body>
+</html>

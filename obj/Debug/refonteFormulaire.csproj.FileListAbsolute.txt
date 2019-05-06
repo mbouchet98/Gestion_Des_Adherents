@@ -1,0 +1,80 @@
+I:\refonteFormulaire\refonteFormulaire\bin\ApplicationInsights.config
+I:\refonteFormulaire\refonteFormulaire\bin\refonteFormulaire.dll.config
+I:\refonteFormulaire\refonteFormulaire\bin\refonteFormulaire.dll
+I:\refonteFormulaire\refonteFormulaire\bin\refonteFormulaire.pdb
+I:\refonteFormulaire\refonteFormulaire\bin\Antlr3.Runtime.dll
+I:\refonteFormulaire\refonteFormulaire\bin\AspNet.ScriptManager.bootstrap.dll
+I:\refonteFormulaire\refonteFormulaire\bin\AspNet.ScriptManager.jQuery.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.Agent.Intercept.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.DependencyCollector.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.Web.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.WindowsServer.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.ApplicationInsights.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.ScriptManager.WebForms.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.Web.Infrastructure.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Newtonsoft.Json.dll
+I:\refonteFormulaire\refonteFormulaire\bin\System.Web.Optimization.dll
+I:\refonteFormulaire\refonteFormulaire\bin\WebGrease.dll
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\refonteFormulaire\refonteFormulaire\bin\System.Web.Optimization.xml
+I:\refonteFormulaire\refonteFormulaire\bin\Antlr3.Runtime.pdb
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\refonteFormulaire\refonteFormulaire\bin\Newtonsoft.Json.xml
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.ApplicationInsights.xml
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.DependencyCollector.xml
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.WindowsServer.xml
+I:\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.Web.xml
+I:\refonteFormulaire\refonteFormulaire\bin\fr\System.Web.Optimization.resources.dll
+I:\refonteFormulaire\refonteFormulaire\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+I:\refonteFormulaire\refonteFormulaire\obj\Debug\refonteFormulaire.csproj.CoreCompileInputs.cache
+I:\refonteFormulaire\refonteFormulaire\obj\Debug\refonteFormulaire.dll
+I:\refonteFormulaire\refonteFormulaire\obj\Debug\refonteFormulaire.pdb
+I:\refonteFormulaire\refonteFormulaire\obj\Debug\refonteFormulaire.csprojAssemblyReference.cache
+I:\refonteFormulaire\refonteFormulaire\obj\Debug\refonteFormulaire.csproj.CopyComplete
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\ApplicationInsights.config
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\refonteFormulaire.dll.config
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\refonteFormulaire.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\refonteFormulaire.pdb
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Antlr3.Runtime.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\AspNet.ScriptManager.jQuery.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.DependencyCollector.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.Web.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.WindowsServer.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.ApplicationInsights.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.Web.Infrastructure.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Newtonsoft.Json.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\System.Web.Optimization.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\WebGrease.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\System.Web.Optimization.xml
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Antlr3.Runtime.pdb
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Newtonsoft.Json.xml
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.ApplicationInsights.xml
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.DependencyCollector.xml
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.WindowsServer.xml
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\Microsoft.AI.Web.xml
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\fr\System.Web.Optimization.resources.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\obj\Debug\refonteFormulaire.csprojAssemblyReference.cache
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\obj\Debug\refonteFormulaire.csproj.CoreCompileInputs.cache
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\obj\Debug\refonteFormulaire.csproj.CopyComplete
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\obj\Debug\refonteFormulaire.dll
+D:\Travaille\Maelys (tempo\refonteFormulaire\refonteFormulaire\obj\Debug\refonteFormulaire.pdb
